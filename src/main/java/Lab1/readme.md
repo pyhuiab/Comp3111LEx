@@ -6,4 +6,4 @@
 
 Here's the screenshot of my 1st lab project in intelliJ:
 
-![](../../../comp_lab_1_image.png)
+![](../../../Comp3111%20lab1%20screenshot.png)
